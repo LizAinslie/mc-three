@@ -1,0 +1,19 @@
+{
+  "name": "mc-web-renderer",
+  "version": "0.0.1",
+  "description": "A web rendering mechanism for Minecraft JSON models.",
+  "main": "dist/index.js",
+  "author": "RailRunner16 <railinator4903@gmail.com> (https://railrunner16.me)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "three": "^0.112.1"
+  },
+  "devDependencies": {
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
