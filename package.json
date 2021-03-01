@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "three": "^0.112.1"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "ts-loader": "^6.2.1",
